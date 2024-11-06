@@ -39,8 +39,6 @@ bash setup
 3. Select your pak file
 4. And the result will be like this
 ![Result](/screenshot/complete_repacking.jpg)
-5. Before and After Repacking
-![Result](/screenshot/beforeafter_repacking.jpg)
 
 # Credits
 ### TG: @YarasaTR
