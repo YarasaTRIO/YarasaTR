@@ -1,6 +1,6 @@
 {
-  "version": "4.0",
+  "version": "5.0",
   "message": "Yeni versiya mövcuddur!",
-  "update_url": "https://yourlink.com/app.apk",
+  "update_url": "https://raw.githubusercontent.com/YarasaTRIO/YarasaTR/main/Ady_1.0.apk",
   "force": "true"
 }
