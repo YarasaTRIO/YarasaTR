@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "4.0",
   "message": "Yeni versiya mövcuddur!",
   "update_url": "https://yourlink.com/app.apk",
   "force": "true"
