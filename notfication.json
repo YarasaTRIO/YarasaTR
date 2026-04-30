@@ -1,6 +1,5 @@
 {
-  "title": "Salam 👋",
-  "message": "App uğurla işləyir və yeni bildiriş sistemi aktivdir",
-  "type": "info",
-  "version": 1
+  "title": "YarasaTR Güncellemesi",
+  "message": "GitHub üzerinden gelen bildirim başarıyla panele ulaştı!",
+  "topic": "all"
 }
