@@ -1,6 +1,6 @@
 {
   "giris_sifresi": "k",
-  "cihaz_limiti": 5,
+  "cihaz_limiti": 1,
   "bitis_tarihi": "20.7.2030",
   "izinli_cihazlar": [
     "a368e5cca0d8dfde",
