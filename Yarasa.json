@@ -1,5 +1,7 @@
 {
   "giris_sifresi": "Ady12",
   "cihaz_limiti": 1,
-  "izinli_cihazlar": []
+  "izinli_cihazlar": [
+    "a368e5cca0d8dfde"
+  ]
 }
