@@ -1,6 +1,6 @@
 {
   "giris_sifresi": "Yarasa",
-  "cihaz_limiti": 1,
+  "cihaz_limiti": 2,
   "bitis_tarihi": "20.7.2030",
   "izinli_cihazlar": [
     "a368e5cca0d8dfde"
