@@ -1,8 +1,6 @@
 {
-  "giris_sifresi": "Ady12",
-  "cihaz_limiti": 21,
-  "izinli_cihazlar": [
-    "a368e5cca0d8dfde",
-    "098a8b08bb180f16"
-  ]
+  "giris_sifresi": "1234",
+  "cihaz_limiti": 1,
+  "bitis_tarihi": "26.06.2026",
+  "izinli_cihazlar": []
 }
