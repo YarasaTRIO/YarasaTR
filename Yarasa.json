@@ -1,3 +1,5 @@
 {
-  "giris_sifresi": "123456"
+  "giris_sifresi": "1234",
+  "cihaz_limiti": 1,
+  "izinli_cihazlar": []
 }
