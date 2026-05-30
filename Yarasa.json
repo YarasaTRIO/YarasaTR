@@ -1,6 +1,6 @@
 {
-  "giris_sifresi": "1234",
-  "cihaz_limiti": 1,
-  "bitis_tarihi": "26.06.2026",
+  "giris_sifresi": "jjj",
+  "cihaz_limiti": 9,
+  "bitis_tarihi": "20.7.2030",
   "izinli_cihazlar": []
 }
