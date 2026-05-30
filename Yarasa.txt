@@ -1,1 +1,6 @@
-
+{
+  "giris_sifresi": "123456",
+  "giris_yapan_cihazlar": {
+    "placeholder": "dummy"
+  }
+}
