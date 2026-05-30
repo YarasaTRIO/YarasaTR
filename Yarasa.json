@@ -1,6 +1,6 @@
 {
   "giris_sifresi": "y",
-  "cihaz_limiti": 2,
+  "cihaz_limiti": 5,
   "bitis_tarihi": "20.7.2020",
   "izinli_cihazlar": [
     "a368e5cca0d8dfde",
