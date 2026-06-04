@@ -1,7 +1,7 @@
 {
-  "giris_sifresi": "h",
-  "cihaz_limiti": 5,
-  "bitis_tarihi": "20.07.2028",
+  "giris_sifresi": "ths",
+  "cihaz_limiti": 6,
+  "bitis_tarihi": "21.09.2029",
   "izinli_cihazlar": [
     "a368e5cca0d8dfde"
   ]
