@@ -28,5 +28,11 @@
     "cihaz_limiti": 1,
     "bitis_tarihi": "90.08.2022",
     "izinli_cihazlar": []
+  },
+  {
+    "giris_sifresi": "uj",
+    "cihaz_limiti": 0,
+    "bitis_tarihi": "20.08.2026",
+    "izinli_cihazlar": []
   }
 ]
