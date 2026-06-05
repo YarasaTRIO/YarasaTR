@@ -1,6 +1,6 @@
 {
-  "giris_sifresi": "123456",
-  "cihaz_limiti": 5,
-  "bitis_tarihi": "20.08.2020",
+  "giris_sifresi": "l",
+  "cihaz_limiti": 1,
+  "bitis_tarihi": "20.08.2026",
   "izinli_cihazlar": []
 }
