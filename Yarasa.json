@@ -4,5 +4,11 @@
     "cihaz_limiti": 1,
     "bitis_tarihi": "20.08.2026",
     "izinli_cihazlar": []
+  },
+  {
+    "giris_sifresi": "S",
+    "cihaz_limiti": 0,
+    "bitis_tarihi": "20.08.2026",
+    "izinli_cihazlar": []
   }
 ]
