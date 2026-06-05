@@ -17,6 +17,12 @@
       "cihaz_limiti": 6,
       "bitis_tarihi": "20.08.2026",
       "izinli_cihazlar": []
+    },
+    {
+      "sifre": "u",
+      "cihaz_limiti": 6,
+      "bitis_tarihi": "20.08.2026",
+      "izinli_cihazlar": []
     }
   ]
 }
