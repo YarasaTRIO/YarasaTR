@@ -2,5 +2,7 @@
   "giris_sifresi": "123456",
   "cihaz_limiti": 5,
   "bitis_tarihi": "20.08.2026",
-  "izinli_cihazlar": []
+  "izinli_cihazlar": [
+    "a368e5cca0d8dfde"
+  ]
 }
