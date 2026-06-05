@@ -1,8 +1,6 @@
 {
-  "giris_sifresi": "ths",
-  "cihaz_limiti": 6,
-  "bitis_tarihi": "21.09.2029",
-  "izinli_cihazlar": [
-    "a368e5cca0d8dfde"
-  ],
+  "giris_sifresi": "123456",
+  "cihaz_limiti": 5,
+  "bitis_tarihi": "2026-12-31",
+  "izinli_cihazlar": []
 }
