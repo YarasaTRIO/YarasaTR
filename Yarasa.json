@@ -41,6 +41,12 @@
       "cihaz_limiti": 6,
       "bitis_tarihi": "20.08.2026",
       "izinli_cihazlar": []
+    },
+    {
+      "sifre": "hhhh",
+      "cihaz_limiti": 6,
+      "bitis_tarihi": "02.09.2026",
+      "izinli_cihazlar": []
     }
   ]
 }
