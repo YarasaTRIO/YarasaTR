@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "giris_sifresi": "h",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "20.08.2023",
+    "izinli_cihazlar": []
+  }
+]
