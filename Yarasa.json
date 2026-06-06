@@ -3,6 +3,8 @@
     "giris_sifresi": "h",
     "cihaz_limiti": 3,
     "bitis_tarihi": "01.01.2031",
-    "izinli_cihazlar": []
+    "izinli_cihazlar": [
+      "a368e5cca0d8dfde"
+    ]
   }
 ]
