@@ -24,7 +24,7 @@
     "c": "DU-60",
     "d": "DU-64",
     "e": "DU-55",
-    "cavab": "b"
+    "cavab": "d"
   },
   {
     "sual": "4. Maşinist qatarın tormozlarının vəziyyəti haqqında VU-45 formalı arayış aldıqdan sonra sonuncu vaqonun nömrəsinin düzgün olub-olmamasını necə yoxlanmalıdır?",
@@ -42,7 +42,7 @@
     "c": "DU-55",
     "d": "DU-50",
     "e": "DU-64",
-    "cavab": "e"
+    "cavab": "c"
   },
   {
     "sual": "6. Sərnişin və poçt-baqaj qatarlarının maşinistlərinə stansiyalarda cədvəllə müəyyən edilmiş vaxtdan əvvəl getməsinə icazə verilirmi?",
@@ -69,7 +69,7 @@
     "c": "Üç qısa və bir uzun",
     "d": "Bir qısa",
     "e": "İki uzun",
-    "cavab": "e"
+    "cavab": "b"
   },
   {
     "sual": "9. Lokomotiv briqadası «Hava həyəcanı» işarəsini lokomotivin səsli fiti ilə necə verməlidir?",
@@ -78,7 +78,7 @@
     "c": "2-3 dəq ərzində fasiləsiz iki uzun səslə",
     "d": "2-3 dəq ərzində fasiləsiz üç uzun səslə",
     "e": "2-3 dəq ərzində fasiləsiz bir sıra uzun və qısa səslərlə",
-    "cavab": "b"
+    "cavab": "a"
   },
   {
     "sual": "10. Telefon əlaqəsinə keçid zamanı mənzilə göndərilən qatarın maşinistə hansı icazəverici yol vərəqəsi verilir?",
@@ -114,7 +114,7 @@
     "c": "İki uzun və bir qısa",
     "d": "Üç uzun",
     "e": "İki uzun",
-    "cavab": "b"
+    "cavab": "a"
   },
   {
     "sual": "14. Maşinist səfərdən sonra aşağıdakılardan hansını depo növbətçisinə təhvil vermir?",
@@ -393,7 +393,7 @@
     "c": "Qatar dispetçeri",
     "d": "Post növbətçisi",
     "e": "Yol briqadiri",
-    "cavab": "a"
+    "cavab": "c"
   },
   {
     "sual": "45. Lokomotivin svetoforunda icazəverici işıq olduqda mənzildəki sönmüş keçid svetoforunu dayanmadan keçilməsinə icazə verilirmi?",
@@ -483,7 +483,7 @@
     "c": "Fənərin sarı işığı ilə",
     "d": "Fənərin ağ işığı ilə",
     "e": "Fənərin göy işığı ilə",
-    "cavab": "d"
+    "cavab": "c"
   },
   {
     "sual": "55. Gecə vaxtı lokomotiv qoşulmaq üçün qatarın tərkibinə yaxınlaşan zaman onun əsas idarəetmə pultu tərəfindən qabaq və arxa bufer tirində hansı işıq yanmalıdır?",
@@ -573,7 +573,7 @@
     "c": "Sarı və qırmızı işıqla birlikdə",
     "d": "Ağ işıqla",
     "e": "Qırmızı işıqla",
-    "cavab": "b"
+    "cavab": "c"
   },
   {
     "sual": "65. Çıxış svetoforunun dəvətedici işarəsi ilə, qatarı düzgün yol ilə hansı əlaqə növü fəaliyyət göstərən sahələrə göndərməyə icazə verilir?",
@@ -600,7 +600,7 @@
     "c": "İki sarı yuxarıdakı qırpışan və bir işıqlanan yaşıl zolaq",
     "d": "Bir qırpışan yaşıl, bir sarı işıq və bir işıqlanan yaşıl zolaq",
     "e": "Bir qırpışan yaşıl işıq və bir işıqlanan yaşıl zolaq",
-    "cavab": "e"
+    "cavab": "d"
   },
   {
     "sual": "68. Qatarın 80 km/saat-dan artıq olmayan sürətlə stansiyanın yan yoluna daxil olmağa icazə verən, növbəti svetoforun açıq olmasını və onu aşağı sürətlə keçməyə icazə verən giriş svetoforundakı işıq hansıdır?",
@@ -609,7 +609,7 @@
     "c": "İki sarı yuxarıdakı qırpışan və bir işıqlanan yaşıl zolaq",
     "d": "Bir qırpışan yaşıl, bir sarı işıq və bir işıqlanan yaşıl zolaq",
     "e": "Bir qırpışan yaşıl işıq və bir işıqlanan yaşıl zolaq",
-    "cavab": "d"
+    "cavab": "c"
   },
   {
     "sual": "69. Qatarın 60 km/saat-dan artıq olmayan sürətlə stansiyanın yan yoluna daxil olmağa icazə verən, növbəti svetoforun bağlı olmasını göstərən giriş svetoforundakı işıq hansıdır?",
@@ -672,7 +672,7 @@
     "c": "Təpə",
     "d": "Xəbərdaredici",
     "e": "Çəpərləyici",
-    "cavab": "e"
+    "cavab": "b"
   },
   {
     "sual": "76. Keçidlərdə, böyük süni qurğularda, uçqun yerlərində qatarların hərəkəti üçün təhlükə yarandıqda hərəkətin dayandırılmasını tələb edən svetofor hansıdır?",
@@ -753,7 +753,7 @@
     "c": "220 v çox",
     "d": "50 V çox",
     "e": "110 V çox",
-    "cavab": "d"
+    "cavab": "e"
   },
   {
     "sual": "85. Yük qatarlarının tərkibindəki vaqonun havapaylayıcısı “Orta” vəziyyətdə qoyulduqda vaqonun hər oxuna neçə ton sıxılma qüvvəsi təsir edir?",
@@ -1133,7 +1133,7 @@
     "cavab": "d"
   },
   {
-    "sual": "127. Lokomotivun fiti ilə sayıqlıq işarəsi necə verilir?",
+    "sual": "127. Lokomotivin fiti ilə sayıqlıq işarəsi necə verilir?",
     "a": "Bir uzun",
     "b": "Bir qısa və bir uzun",
     "c": "İki qısa",
