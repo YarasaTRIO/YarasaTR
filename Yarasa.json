@@ -12,7 +12,9 @@
     "giris_sifresi": "test1",
     "cihaz_limiti": 1200,
     "bitis_tarihi": "01.01.2050",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "a368e5cca0d8dfde"
+    ],
     "aktif": true
   }
 ]
