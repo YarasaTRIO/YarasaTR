@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "giris_sifresi": "test1",
+    "cihaz_limiti": 999,
+    "bitis_tarihi": "01.01.2031",
+    "izinli_cihazlar": [],
+    "aktif": true
+  }
+]
