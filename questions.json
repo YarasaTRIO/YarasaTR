@@ -1,0 +1,882 @@
+[
+  {
+    "sual": "Səfər zamanı sürətölçən xarab olarsa kimin göstərişi əsasında və hara qədər lokomotivlə hərəkət etmək olar?",
+    "cavab": "Qatar dispetçerinin göstərişi ilə ilk təmir məntəqəsi və ya depoya qədər."
+  },
+  {
+    "sual": "Mənzildə məcburi dayanmış qatarın geri stansiyaya çəkilməsi haqda göstərişi maşinist birbaşa kim tərəfindən almalıdır?",
+    "cavab": "Stansiya növbətçisindən"
+  },
+  {
+    "sual": "Radiorabitə və telefon rabitəsi kəsilən zaman qatarı geri stansiyaya çəkmək üçün köməyə gedən lokomotivin maşinistinə hansı icazəverici vərəqə verilir?",
+    "cavab": "DU-64"
+  },
+  {
+    "sual": "Maşinist qatarın tormozlarının vəziyyəti haqqında VU-45 formalı arayış aldıqdan sonra sonuncu vaqonun nömrəsinin düzgün olub-olmamasını necə yoxlanmalıdır?",
+    "cavab": "Qatarın natura vərəqəsilə tutuşdurmaqla"
+  },
+  {
+    "sual": "Bütün əlaqə vasitələrinin işinin fasiləsi zamanı qatarı mənzilə göndərən stansiya növbətçisi maşinistə DU-56-dan əlavə daha hansı icazəverici xəbərdarlıq vərəqəsini verir?",
+    "cavab": "DU-55"
+  },
+  {
+    "sual": "Sərnişin və poçt-baqaj qatarlarının maşinistlərinə stansiyalarda cədvəllə müəyyən edilmiş vaxtdan əvvəl getməsinə icazə verilirmi?",
+    "cavab": "Heç bir halda verilmir"
+  },
+  {
+    "sual": "Bütün əlaqə vasitələrinin işinin fasiləsi zamanı qatarı mənzilə göndərərkən maşinistə hansı icazəverici xəbərdarlıq vərəqəsi verilir?",
+    "cavab": "DU-56"
+  },
+  {
+    "sual": "Qatarı quyruq hissədə itələyici lokomotivlə apararkən, lokomotivin maşinisti itələyici lokomotivin maşinistinə «İtələməni başla» tələbini lokomotivin səsli fiti ilə necə bildirir?",
+    "cavab": "Üç qısa"
+  },
+  {
+    "sual": "Lokomotiv briqadası «Hava həyəcanı» işarəsini lokomotivin səsli fiti ilə necə verməlidir?",
+    "cavab": "2-3 dəq ərzində fasiləsiz bir sıra qısa səslə"
+  },
+  {
+    "sual": "Telefon əlaqəsinə keçid zamanı mənzilə göndərilən qatarın maşinistinə hansı icazəverici yol vərəqəsi verilir?",
+    "cavab": "DU-50"
+  },
+  {
+    "sual": "Stansiyalarda yük və sərnişin qatarlarının sonunu bildirən işarələrin asılması və ya götürülməsi kim tərəfindən həyata keçirilir?",
+    "cavab": "Vaqon müayinəçisi"
+  },
+  {
+    "sual": "Maşinist dəmir yolunun hansı işçisi ilə birlikdə qatarın tormoz şəbəkəsinin kipliyini yoxlamalıdır?",
+    "cavab": "Vaqon müayinəçisi ilə"
+  },
+  {
+    "sual": "Qatarı quyruq hissədə itələyici lokomotivlə apararkən, aparıcı lokomotivinin maşinisti itələyici lokomotivin maşinistinə «İtələməni dayandır, lakin qatardan geri qalma» tələbini lokomotivin səsli fitilə necə bildirir?",
+    "cavab": "Bir qısa, bir uzun və bir qısa"
+  },
+  {
+    "sual": "Maşinist səfərdən sonra aşağıdakılardan hansını depo növbətçisinə təhvil vermir?",
+    "cavab": "İdarəetmə vəsiqəsini"
+  },
+  {
+    "sual": "Qatarı quyruq hissədə itələyici lokomotivlə apararkən, aparıcı lokomotivin maşinisti itələyici lokomotivin maşinistinə «İtələməni dayandır və geri qayıt» tələbini lokomotivin səsli fiti ilə necə bildirir?",
+    "cavab": "Dörd uzun"
+  },
+  {
+    "sual": "Qatar keçid svetoforunun qadağanedici işarəsinin qabağında dayandıqdan sonra, maşinist qarşıdakı blok-sahənin tutulu olmasını görürsə və ya bilirsə ona blok sahə boşalana qədər hərəkət etməsinə icazə verilirmi?",
+    "cavab": "Heç bir halda verilmir"
+  },
+  {
+    "sual": "Lokomotiv briqadası «Ümumi həyəcan» işarəsini lokomotivin səsli fiti ilə necə verməlidir?",
+    "cavab": "Bir uzun və üç qısa"
+  },
+  {
+    "sual": "Qatarı stansiyadan göndərməzdən əvvəl maşinist qatarın tormozlarının vəziyyəti haqqında vaqon müayinəçisindən hansı formalı arayışı almalıdır?",
+    "cavab": "VU-45"
+  },
+  {
+    "sual": "Lokomotivin maşinisti, köməkçisini lokomotivin səsli fiti ilə lokomotivə necə çağırmalıdır?",
+    "cavab": "Üç uzun və iki qısa"
+  },
+  {
+    "sual": "İş fəaliyyətində nə qədər fasilə yarandıqdan sonra maşinist, müvafiq imtahan verdikdən və təlimatlandırıldıqdan sonra sərbəst işə buraxıla bilər?",
+    "cavab": "3 ay"
+  },
+  {
+    "sual": "Avtobloklama ile təchiz olunmuş sahələrdə sürəkli yoxuşda keçid svetoforunda yerləşdirilmiş «T» hərfi maşinistə hansı icazəni verir?",
+    "cavab": "Sürəti 20 km/saatdan artıq olmayan sürətlə onu dayanmadan keçməyə."
+  },
+  {
+    "sual": "Təkər cütünün hər hansı bir təkərinin diyirlənmə səthində yeyilmə neçə mm-dən çox olarsa, bu təkər cütünün istismarı qadağan edilir?",
+    "cavab": "7 mm"
+  },
+  {
+    "sual": "Qatarın tormozlarının qısa sınağı zamanı tərkibin hansı və neçə vaqonun kolodkalarının təkərə sıxılması yoxlanılır?",
+    "cavab": "Tərkibin sonundakı 2 vaqonun"
+  },
+  {
+    "sual": "Lokomotivin avtoqoşqusunun oxunun relsin başlığı üzərindən hündürlüyü neçə mm-dən çox olmamalıdır?",
+    "cavab": "1080 mm"
+  },
+  {
+    "sual": "Dikliyi 18 minlikdən artıq olan sahəyə qatarı göndərməzdən əvvəl onun tormozlarının yoxlanması zamanı tormozların neçə dəqiqə ərzində buraxmaması yoxlanılır?",
+    "cavab": "10 dəq"
+  },
+  {
+    "sual": "Lokomotivin avtoqoşqusunun oxunun relsin başlığı üzərindən hündürlüyü neçə mm-dən az olmamalıdır?",
+    "cavab": "980 mm"
+  },
+  {
+    "sual": "Qatarı ikiqat dartı lokomotivlə apararkən, aparıcı lokomotivin maşinisti ikinci lokomotivin maşinistinə «Dartı gücünü azalt» tələbini lokomotivin səsli fiti ilə necə bildirməlidir?",
+    "cavab": "Bir qısa səslə."
+  },
+  {
+    "sual": "Aralıq stansiyalarında qəbul-göndərmə yollarının ayrı-ayrı vaqonlarla müvəqqəti tutulu qalması kimin icazəsilə həyata keçirilir?",
+    "cavab": "Qatar disptçerinin"
+  },
+  {
+    "sual": "Maşinist lokomotivin idarəsini, digər hansı şəxsin idarəetməsi üçün icazə verə bilər?",
+    "cavab": "Maşinist təlimatçısının"
+  },
+  {
+    "sual": "Hansı hallarda qatarların vaqonlarla irəli hərəkətinə icazə verilmir?",
+    "cavab": "Təmir vaxtı bitmiş vaqonların hərəkətinə"
+  },
+  {
+    "sual": "Gündüz vaxtı təkyollu və ikiyollu sahələrin düzgün yolu ilə hərəkət edən zaman qatarın baş hissəsindəki lokomotiv necə nişanlanır?",
+    "cavab": "Nişanlanmır"
+  },
+  {
+    "sual": "Köməkçisiz işləmək üçün təyin edilən lokomotiv maşinistinin iş stajı neçə ildən az olmamalıdır?",
+    "cavab": "1 il"
+  },
+  {
+    "sual": "Qatarın ikiqat dartı ilə hərəkəti zamanı DU-61 formalı xəbərdarlıq vərəqəsi hansı lokomotivin maşinistinə verilir?",
+    "cavab": "Aparıcı lokomotivin maşinistinə"
+  },
+  {
+    "sual": "«Qatarın stansiyaya tam tərkibdə daxil olmaması» barədə xəbərdarlıq lokomotivin səsli fiti ilə necə verilir?",
+    "cavab": "Üç uzun və bir qısa"
+  },
+  {
+    "sual": "Qatarı iki qat dartı ilə apararkən, aparıcı lokomotivin maşinisti ikinci lokomotivin maşinistinə «Dartı gücünü artır» tələbini lokomotivin səsli fiti ilə necə verməlidir?",
+    "cavab": "İki qısa"
+  },
+  {
+    "sual": "Lokomotivin maşinist köməkçisi lazımı hallarda maşinisti lokomotivin səsli fiti ilə lokomotivə necə çağırır?",
+    "cavab": "Üç uzun və hai qısa"
+  },
+  {
+    "sual": "Lokomotiv briqadası «Yanğın həyəcanı» işarəsini lokomotivin səsli fiti ilə necə verməlidir?",
+    "cavab": "Bir uzun və iki qısa"
+  },
+  {
+    "sual": "Lokomotiv briqadası «Radiasiya təhlükəsi» işarəsini lokomotivin səsli fiti ilə necə verməlidir?",
+    "cavab": "2-3 dəq ərzində fasiləsiz bir sıra uzun və qısa səslərlə"
+  },
+  {
+    "sual": "Aşağıdakılardan hansı nasazlıqla TİQ-ə əsasən lokomotivin istismara buraxılması qadağan edilmir?",
+    "cavab": "Şüşətəmizləyən nasaz olduqda"
+  },
+  {
+    "sual": "Aşağıdakılardan hansı nasazlıqla TİQ-ə əsasən lokomotivin istismara buraxılması qadağan edilmir?",
+    "cavab": "Maşinist köməkçisinin oturacağı nasaz olduqda"
+  },
+  {
+    "sual": "Aşağıdakılardan hansı nasazlıqla TİQ-ə əsasən lokomotivin istismara buraxılması qadağan edilmir?",
+    "cavab": "Kabinada istilik qurğularından bir qrupu nasaz olduqda."
+  },
+  {
+    "sual": "Lokomotivlər 2 nömrəli texniki baxışdan (TB-2) neçə saatdan gec keçməməlidirlər?",
+    "cavab": "48 saat"
+  },
+  {
+    "sual": "Qatarın itələyici lokomotiv ilə hərəkəti zamanı DU-61 formalı xəbərdarlıq vərəqəsi hansı lokomotivin maşinistinə verilir?",
+    "cavab": "Hər ikisinə"
+  },
+  {
+    "sual": "Qatar ikiyollu mənzillərdə düzgün olmayan yolla göndərilərkən yolda xəbərdarlığın olub olmaması barədə məlumatı kim verir?",
+    "cavab": "Qatar dispetçeri"
+  },
+  {
+    "sual": "Lokomotivin svetoforunda icazəverici işıq olduqda mənzildəki sönmüş keçid svetoforunu dayanmadan keçilməsinə icazə verilirmi?",
+    "cavab": "Verilir"
+  },
+  {
+    "sual": "Yarımavtomat bloklama sahəsinə göndərilən qatar, növbəti stansiyaya çatana qədər sahəyə daha neçə qatar göndərmək olar?",
+    "cavab": "Göndərmək olmaz"
+  },
+  {
+    "sual": "Çeşidləmə stansiyalarında təpə svetoforlarındakı hansı işıq vaqonların müəyyən edilmiş sürətlə təpədən buraxılmasına icazə verir?",
+    "cavab": "Bir yaşıl işıq"
+  },
+  {
+    "sual": "Çeşidləmə stansiyalarında təpə svetoforlarındakı hansı işıq vaqonların aşağı sürətlə təpədən buraxılmasına icazə verir?",
+    "cavab": "Bir sarı işıq"
+  },
+  {
+    "sual": "Çeşidləmə stansiyalarında təpə svetoforlarındakı hansı işıq vaqonların müəyyən edilmiş və aşağı sürət arasındakı orta sürətlə təpədən buraxılmasına icazə verilir?",
+    "cavab": "Bir sarı və bir yaşıl işıq"
+  },
+  {
+    "sual": "Qatarın arxa hissəsini çəpərləyərək, yola partlayıcı petardlar qoyduqdan sonra maşinist köməkçisi 50 metr məsafədə hara çəkilməlidir?",
+    "cavab": "Geriyə"
+  },
+  {
+    "sual": "Sabit və dəyişən cərəyan lokomotivlərinin hərəkət istiqamətində “Cərəyan qəbuledicini qaldır” nişanı çəpərlənən sahədən neçə metrdən az olmayan məsafədə qoyulur?",
+    "cavab": "50 metr"
+  },
+  {
+    "sual": "Elektrik qatarlarının maşinistləri hərəkət istiqamətində cərəyan qəbuledicini endirməklə çəpərlənən sahəni keçdikdən sonra neçə metrdən az olmayan məsafədə cərəyanqəbuledicini qaldıra bilər?",
+    "cavab": "200 metr"
+  },
+  {
+    "sual": "Bir yollu sahələrdə düzgün olmayan yol ilə hərəkət edən yük qatarlarının son vaqonu bufer tirinin sağ tərəfindən hansı işıq əks etdirici disklə nişanlanır?",
+    "cavab": "Qırmızı"
+  },
+  {
+    "sual": "Gecə vaxtı mənzildə yük qatarının tərkibi hər hansı səbəbdən mənzildə ayrılarsa, qatarın stansiyaya göndərilən hissəsindəki son vaqonun bufer tirinin sağ tərəfi necə nişanlanır?",
+    "cavab": "Fənərin sarı işığı ilə"
+  },
+  {
+    "sual": "Gecə vaxtı lokomotiv qoşulmaq üçün qatarın tərkibinə yaxınlaşan zaman onun əsas idarəetmə pultu tərəfindən qabaq və arxa bufer tirində hansı işıq yanmalıdır?",
+    "cavab": "Bir şəffaf ağ işıq"
+  },
+  {
+    "sual": "Lokomotiv briqadası qatarın tərkibində qızmış bukslu vaqon aşkar etdikdə bu haqda ilk növbədə kimə məlumat verməlidir?",
+    "cavab": "Stansiya növbətçisinə"
+  },
+  {
+    "sual": "İki yollu mənzillərdə hərəkət tərkibinin relsdən çıxması nəticəsində qonşu yolda hərəkətə maneə törədən yerin çəpərlənməsi tələb olunarsa, maşinist lokomotivin səsli fiti ilə hansı həyəcan işarəsini verməlidir?",
+    "cavab": "Ümumi həyəcan"
+  },
+  {
+    "sual": "Qatarın arxa hissəsini çəpərləyərək yola partlayıcı petardlar qoyduqdan sonra maşinist köməkçisi petard qoyduğu yerdən neçə metr məsafəyə çəkilməlidir?",
+    "cavab": "50 metr"
+  },
+  {
+    "sual": "Stansiya yollarında hərəkət üçün maneə yerləri çəpərlənərkən «DAYAN» işarəsi maneə yerindən neçə metr məsafədə olmalıdır?",
+    "cavab": "50 metr"
+  },
+  {
+    "sual": "Maşinist xəbərdarlıq almadıqda hərəkət zamanı “Təhlükəli yerin başlanğıcı” ilə “Təhlükəli yerin sonu” səyyar işarə nişanlarının arasındakı məsafəni hansı sürətlə keçməlidir?",
+    "cavab": "25 km/saat sürətdən artıq olmamaqla"
+  },
+  {
+    "sual": "Mənzildə məcburi dayanmış qatarın çəpərlənməsi zamanı neçə ədəd partlayıcı petarddan istifadə edilməlidir?",
+    "cavab": "3 ədəd"
+  },
+  {
+    "sual": "Mənzildə məcburi dayanmış qatarın çəpərlənməsində istifadə edilən partlayıcı petardlar arasındakı məsafə nə qədərdir?",
+    "cavab": "20 metr"
+  },
+  {
+    "sual": "«Təhlükəli yerin başlanğıcı»na qədər qoyulmuş sarı rəngli disk işarəsinin məsafəsi, sürəti 80 km/saat-dan artıq olamayan qatarlar üçün nə qədər müəyyən edilmişdir?",
+    "cavab": "800 metr"
+  },
+  {
+    "sual": "Lokomotivin dayanmağa hazır olmaqla hərəkətinə icazə verən bildiriş lokomotiv svetoforunda (ALSN-də) hansı işıqla göstərilmişdir?",
+    "cavab": "Sarı və qırmızı işıqla birlikdə"
+  },
+  {
+    "sual": "Çıxış svetoforunun dəvətedici işarəsi ilə, qatarı düzgün yol ilə hansı əlaqə növü fəaliyyət göstərən sahələrə göndərməyə icazə verilir?",
+    "cavab": "Avtobloklama"
+  },
+  {
+    "sual": "Qatarın müəyyən edilmiş sürətlə stansiyanın yan yoluna qəbul edərək, dayanmağa hazır vəziyyətdə olmasını göstərən giriş svetoforundakı işıq hansıdır?",
+    "cavab": "İki sarı"
+  },
+  {
+    "sual": "Qatarın 80 km/saat-dan artıq olmayan sürətlə stansiyanın yan yoluna daxil olmağa icazə verən, növbəti svetoforun açıq olmasını və onu 80 km/saat sürətlə keçməyə icazə verən giriş svetoforundakı işıq hansıdır?",
+    "cavab": "İki sarı yuxarıdakı qırpışan və bir işıqlanan yaşıl zolaq"
+  },
+  {
+    "sual": "Qatarın 80 km/saat-dan artıq olmayan sürətlə stansiyanın yan yoluna daxil olmağa icazə verən, növbəti svetoforun açıq olmasını və onu aşağı sürətlə keçməyə icazə verən giriş svetoforundakı işıq hansıdır?",
+    "cavab": "Bir qırpışan yaşıl işıq və bir işıqlanan yaşıl zolaq"
+  },
+  {
+    "sual": "Qatarın 60 km/saat-dan artıq olmayan sürətlə stansiyanın yan yoluna daxil olmağa icazə verən, növbəti svetoforun bağlı olmasını göstərən giriş svetoforundakı işıq hansıdır?",
+    "cavab": "İki sarı işıq vacancies və bir işıqlanan yaşıl zolaq"
+  },
+  {
+    "sual": "Qatarı stansiyanın baş yoluna müəyyən edilmiş sürətlə qəbul edən, növbəti açıq svetoforu 60 km/saat sürətdən artıq olmayan sürətlə keçməyə icazə verən giriş svetoforundakı işıq hansıdır?",
+    "cavab": "Bir qırpışan yaşıl"
+  },
+  {
+    "sual": "Yarımavtomat bloklama ilə işləyən sahəyə ümumilikdə neçə qatar göndərmək olar?",
+    "cavab": "1 qatar"
+  },
+  {
+    "sual": "Avtobloklama sahəsində mənzildə keçid svetoforunun sarı işığını hansı sürətdən artıq olmayan sürətlə keçmək olar?",
+    "cavab": "60 km/saat"
+  },
+  {
+    "sual": "Yerli şəraitə görə əsas svetoforun görünüşü təmin olunmadıqda çıxış, marşrut və təpə svetoforlarının icazəverici işarəsini bildirən svetofor hansıdır?",
+    "cavab": "Təkraredici"
+  },
+  {
+    "sual": "Qatarın stansiyanın bir rayonundan digərinə hərəkətinə icazə verən və ya qadağan edən svetofor hansıdır?",
+    "cavab": "Marşrut"
+  },
+  {
+    "sual": "Dəmir yol xətlərinin digər nəqliyyat növləri olan tramvay, trolleybus yolları ile eyni səviyyədə kəsişdiyi yerləri qorumaq üçün istifadə edilən svetoforlar hansılardır?",
+    "cavab": "Qoruyucu"
+  },
+  {
+    "sual": "Keçidlərdə, böyük süni qurğularda, uçqun yerlərində qatarların hərəkəti üçün təhlükə yarandıqda hərəkətin dayandırılmasını tələb edən svetofor hansıdır?",
+    "cavab": "Çəpərləyici"
+  },
+  {
+    "sual": "Qatarın mənzildə bir blok-sahədən digərinə hərəkətinə icazə verən və ya qadağan edən, qatarın yaxınlaşdığı sahə svetoforunun verdiyi işarəni lokomotivdə bildirən svetofor hansıdır?",
+    "cavab": "Lokomotiv"
+  },
+  {
+    "sual": "Əsas svetoforun göstərdiyi işarəni təkrarlayaraq bildirən svetofor hansıdır?",
+    "cavab": "Xəbərdaredici"
+  },
+  {
+    "sual": "Səfər zamanı sürətin azaldılması və ya qatarın yolda dayanmasını tələb edən, eləcə də qatarın xüsusi şərtlə hərəkət etməsi barədə maşinistə verilən blank hansıdır?",
+    "cavab": "DU-61"
+  },
+  {
+    "sual": "Bir yollu sahələrdə stansiyanın sərhədi hansı svetoforun qoyulduğu yerdən başlayır?",
+    "cavab": "Giriş"
+  },
+  {
+    "sual": "İki yollu sahələrdə əks istiqamətdən stansiyanın sərhədi hansı göstərici nişanının qoyulduğu yerdən başlayır?",
+    "cavab": "Stansiyanın sərhədi"
+  },
+  {
+    "sual": "“Stansiyanın sərhədi” göstərici nişanı stansiyanın axırıncı çıxış yoldəyişənindən hansı məsafədə qoyulur?",
+    "cavab": "50 metr"
+  },
+  {
+    "sual": "Stansiyanın Texniki-Sərəncam Aktı kim tərəfindən hazırlanaraq təsdiq edilir?",
+    "cavab": "Stansiya rəisi"
+  },
+  {
+    "sual": "Hansı sabit gərginlik insan həyatı üçün təhlükəli sayılır?",
+    "cavab": "110 V çox"
+  },
+  {
+    "sual": "Yük qatarlarının tərkibindəki vaqonun havapaylayıcısı “Orta” vəziyyətdə qoyulduqda vaqonun hər oxuna neçə ton sıxılma qüvvəsi təsir edir?",
+    "cavab": "5,0 ton"
+  },
+{
+    "sual": "Yük qatarının tərkibindəki vaqonun havapaylayıcı “Yüklü” vəziyyətə qoyulduqda da vaqonun hər oxuna neçə ton sıxılma qüvvəsi təsir edir?",
+    "cavab": "7,0 ton"
+  },
+  {
+    "sual": "Yük qatarının tərkibindəki vaqonun havapaylayıcısı “Boş” vəziyyətə qoyulduqda, vaqonun hər oxuna neçə ton sıxılma qüvvəsi təsir edir?",
+    "cavab": "3,5 ton"
+  },
+  {
+    "sual": "Yolda qatarın hərəkəti zamanı tormozların nəzarət yoxlanışı (effektivliyi) zamanı sürətin neçə km/saat düşməsi nəzərdə tutulmuşdur?",
+    "cavab": "10 km/saat"
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı manevr zamanı lokomotiv briqadasının vəzifə borcu sayılmır?",
+    "cavab": "Manevr işinə başlamazdan əvvəl maşinist təlimatçısı ilə əlaqə saxlamaq"
+  },
+  {
+    "sual": "Hansı vaqonları qatarlara qoşmaq qadağan edilmir?",
+    "cavab": "Boş vaqonları"
+  },
+  {
+    "sual": "Lokomotiv briqadaları dövriyyə məntəqələrində oraya qədər işdə olduqları vaxtdan azı neçə faizini istirahət etməlidirlər?",
+    "cavab": "50 faizi"
+  },
+  {
+    "sual": "Xidmət etdiyi sahədə qatarların hərəkət qrafikinin yerinə yetirilməsinə cavabdeh şəxs kimdir?",
+    "cavab": "Qatar dispetçeri"
+  },
+  {
+    "sual": "Yük və ya sərnişin qatarlarının stansiyalarda tormozlarına nəzarət yoxlanışı hansı hallarda keçirilir?",
+    "cavab": "Yolda hərəkət zamanı tormozların nəzarət yoxlanışı (effektivliyi) lazımi nəticəni vermədikdə."
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı qatarın tormozlarının qısa sınağını keçirməyə əsas verir?",
+    "cavab": "Qatar hər hansı səbəbdən 20 dəq artıq dayandıqda"
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı qatarın tormozlarının qısa sınağını keçirməyə əsas verir?",
+    "cavab": "Baş çəndə təzyiq 4,5 ATM-dən aşağı düşdükdə"
+  },
+  {
+    "sual": "Mənzildə, DU-61 formalı xəbərdarlıq vərəqəsində qeyd edilən yerin çəpərlənməsi olmadıqda maşinist bu barədə kimə məlumat verməlidir?",
+    "cavab": "Stansiya növbətçisi və ya qatar dispetçerinə"
+  },
+  {
+    "sual": "Maşinist işdən sonra depoda, səfər zamanı hərəkətin təhlükəsizliyini təmin etməyən nöqsanlar barədə hansı kitabda qeydlər aparmalıdır?",
+    "cavab": "Maşinistlərin irad kitabında"
+  },
+  {
+    "sual": "Bütün işarəvermə və əlaqə vasitələrinin fasiləsi zamanı biryollu sahələrdə qatarların hərəkəti necə yerinə yetirilir?",
+    "cavab": "Yazılı bildirişlə"
+  },
+  {
+    "sual": "Lokomotiv briqadası lokomotivin qəbulu və təhvili zamanı hansı qaydalara əməl etməlidir?",
+    "cavab": "Texniki İstismar Qaydalarının tələblərinə uyğun onu qəbul etməlidirlər."
+  },
+  {
+    "sual": "Lokomotiv briqadası nə vaxt və kimin çağırışı ilə işə gəlməlidir?",
+    "cavab": "İşə gəlməzdən yaxşı istirahət etməklə, cədvəl üzrə depo növbətçisinin və ya naryadçının çağırışı ilə təyin olunan vaxtda işə gələ bilərlər."
+  },
+  {
+    "sual": "Lokomotiv briqadası manevr işinə başlayarkən stansiya növbətçisi əsas hansı nasazlıqlar barəsində onları xəbərdar etməlidir?",
+    "cavab": "Stansiyada işləmeyən manevr svetoforları barəde."
+  },
+  {
+    "sual": "Manevr işləri aparılarkən müəyyən edilmiş sürətlər hansılardır?",
+    "cavab": "3, 5, 15, 25, 40, və 60 km/saat."
+  },
+  {
+    "sual": "Qatarın tormoz yolu nədir?",
+    "cavab": "Maşinist tormoz kranının dəstəyinin tormozlama vəziyyətinə cevrildiyi andan qatarın tam dayanana qədər getdiyi məsafədir."
+  },
+  {
+    "sual": "Hərəkət zamanı maşinistin sağlamlığı pozularsa, maşinist köməkçisi hansı tədbirləri görməlidir?",
+    "cavab": "Qatarı təcili saxlamalı və radiorabitə vasitəsi ilə qarşıdakı stansiya növbətçisinə məlumat verməlidir."
+  },
+  {
+    "sual": "Qatarın tormozlarının sınağı zamanı, sınağa cavabdeh şəxsin “Tormozla” işarəsinə maşinist hansı səs işarəsi ilə cavab verir?",
+    "cavab": "Bir qısa"
+  },
+  {
+    "sual": "Manevr svetoforunda bir göy işarə nəyi tələb edir?",
+    "cavab": "Manevr aparılmasını qadağan edir."
+  },
+  {
+    "sual": "Manevr edən briqadanın işinə və manevr işlərinin düzgün yerinə yetirilməsinə kim cavabdehdir?",
+    "cavab": "Qatar tərtibatçısı."
+  },
+  {
+    "sual": "Təkər cütü nədir?",
+    "cavab": "Bir ox üzərində yığılmış iki ədəd təkərdir."
+  },
+  {
+    "sual": "Lokomotiv briqadaları qaranlıq vaxtı mənzil və ya stansiyalarda qatarla qarşılaşarkən təlimata əsasən projektordan necə istifadə etməlidirlər?",
+    "cavab": "Qarşıdan gələn qatarın lokomotiv briqadsının görmə qabiliyyətinə təsir göstərməmək məqsədilə projektoru ”Tutqun işıq” vəziyyətinə gətirməli, qarşıdan gələn qatarın baş hissəsi keçdikdən sonra qatarın ümumi vəziyyətinə baxmaq üçün projektoru “Parlaq işıq” vəziyyətinə keçirilməlidirlər."
+  },
+  {
+    "sual": "Manevr lokomotivlərində çuqun əyləc qəlblərinin qalınlığının ən az hansı həddə qədər yeyilməsinə icazə verilir?",
+    "cavab": "10 mm"
+  },
+  {
+    "sual": "Stansiyalarda kontakt şəbəkəsinin təmas naqili relsin başlığı səviyyəsindən hansı hündürlükdə olur?",
+    "cavab": "5750 mm"
+  },
+  {
+    "sual": "Lokomotiv briqadası depoda texniki baxış məntəqəsinə daxil olarkən təlimata əsasən nədən əmin olduqdan sonra yola daxil ola bilər?",
+    "cavab": "Texniki baxış məntəqəsinə daxil olarkən lokomotivin damında, altında, piləkənində, təmir xəndəyində adamların olmamasına və məntəqənin yolunun qapılarının açıq vəziyyətdə olmasına əmin olduqdan sonra ora daxil ola bilər."
+  },
+  {
+    "sual": "Maşinist işdən sonra səfər zamanı baş vermiş xəta hadisəsi barəsində kimə yazılı məlumat təqdim etməlidir?",
+    "cavab": "Depo rəisinə"
+  },
+  {
+    "sual": "Gündüz işarələri nələr ilə verilir?",
+    "cavab": "Disklər, lövhələr, bayraqlar və işarə göstəriciləri ilə."
+  },
+  {
+    "sual": "Keçid svetoforu nə üçündür?",
+    "cavab": "Qatarın bir blok-sahədən digərinə keçməsinə icazə və ya onu qadağan etmək üçündür."
+  },
+  {
+    "sual": "Lokomotiv qatara qoşulduqdan sonra onun havapaylayıcısını qeyri-işlək vəziyyətə gətirmək olarmı?",
+    "cavab": "Heç bir halda olmaz."
+  },
+  {
+    "sual": "Stansiya növbətçisi və ya qatar dispetçerilə əlaqə olmadıqda mənzildə dayanmış yük qatarının maşinisti lazımı məlumatı növbəti stansiya növbətçisinə çatdırmaq üçün qatarın tərkibindən lokomotivi açmaqlə ondan istifadə edə bilərmi?",
+    "cavab": "Müstəsna hallarda olar"
+  },
+  {
+    "sual": "Təkər cütü darağının istismar üçün icazə verilən ölçüləri hansılardır?",
+    "cavab": "25-33 mm,"
+  },
+  {
+    "sual": "Səfər zamanı lokomotivdə baş verən nasazlıq və ya onda aşkar edilən nöqsanlar barədə lokomotivi təhvil verərkən maşinist, hansı fomalı jurnalda müvafiq qeydlər aparmalıdır?",
+    "cavab": "TU-152"
+  },
+  {
+    "sual": "İşarələr nəyə xidmət edir?",
+    "cavab": "Hərəkətin təhlükəsizliyinin təmin edilməsinə."
+  },
+  {
+    "sual": "İşarələr qavrama tərzinə görə neçə hissəyə bölünür?",
+    "cavab": "İki hissəyə."
+  },
+  {
+    "sual": "Görünən işarələr istifadə olunma vaxtına görə neçə hissəyə bölünür?",
+    "cavab": "Üç hissəyə"
+  },
+  {
+    "sual": "Səs işarələri bir-birindən nə ilə fərqlənir?",
+    "cavab": "Səslərin sayı və ahəngdarlığının müxtəlif olması ilə"
+  },
+  {
+    "sual": "Svetoforlar öz təyinatına görə hansılardır?",
+    "cavab": "Giriş, çıxış, marşrut, keçid, qoruyucu çəpərləyici, xəbərdaredici, təkraredici, lokomotiv, manevr, təpə svetoforları."
+  },
+  {
+    "sual": "Stansiyalarda lokomotiv briqadasına təqdim edilən hər hansı icazəverici sənəd kim tərəfindən yazılır?",
+    "cavab": "Stansiya növbətçisi və ya operator,"
+  },
+  {
+    "sual": "Stansiyada manevr aparılan zaman lokomotivlə vaqonların tormoz magistralının rezin borularının birləşdirilməsi və ya ayrılması kim tərəfindən yerinə yetirilməlidir?",
+    "cavab": "Tərtibatçı briqada və ya konduktor tərəfindən."
+  },
+  {
+    "sual": "Lokomotivin fiti ilə sayıqlıq işarəsi necə verilir?",
+    "cavab": "Bir qısa və bir uzun"
+  },
+  {
+    "sual": "Xəbərdaredici svetoforun təyinatı nədir?",
+    "cavab": "Əsas svetoforun göstəricisi təkrarlayaraq maşinistə xəbərdarlıq edir."
+  },
+  {
+    "sual": "Təkraredici svetoforun təyinatı nədir?",
+    "cavab": "Əsas çıxış, marşrut, və təpə svetoforun işarəsini yaranmış şəraitə görə təkrar edir."
+  },
+  {
+    "sual": "Lokomotiv svetoforunun təyinatı nədir?",
+    "cavab": "Hərəkət zamanı maşinistə qarşıdakı svetoforun verdiyi işarəni lokomotivdə göstərməklə maşinistə məlumat verir."
+  },
+  {
+    "sual": "Təpə svetoforunun təyinatı nədir?",
+    "cavab": "Vaqonların təpədən buraxılmasına icazə verir və ya qadağan edir."
+  },
+  {
+    "sual": "Manevr svetoforunun təyinatı nədir?",
+    "cavab": "Manevrin aparılmasına icazə verir və ya qadağan edir."
+  },
+  {
+    "sual": "Motor-ox yastığı nədir?",
+    "cavab": "Oxun boynunda sürüşmə yastığıdır,"
+  },
+  {
+    "sual": "Səfər zamanı qatarı idarə edərkən maşinistin və onun köməkçisinin əsas vəzifə borcları hansılardır?",
+    "cavab": "Yol boyu yollarda olan nişanları və yoldəyişənlərin vəziyyətini izləmək, qatarı mənzil başına salamat çatdırmaq.."
+  },
+  {
+    "sual": "Hərəkət zamanı maşinistə nələr qadağan olunur?",
+    "cavab": "Sürət həddini aşmaq, qadağanedici işarələri dayanmadan keçmək, diqqət yayındıran hərəkətlərə yol vermək."
+  },
+  {
+    "sual": "Giriş svetoforda dəvətolunma işarəsi necə olur və onu keçmə qaydası necədir?",
+    "cavab": "Qırpışan ağ ay işıq, sürət 20 km/saatdan artıq olmamaqla, marşrutunda olan yoldəyişənlərin vəziyyətini izləməklə növbəti svetofora qədər hərəkətə icazə verilir."
+  },
+  {
+    "sual": "Fəaliyyətsiz svetoforu necə tanımaq olar?",
+    "cavab": "Çarpaz çubuqla işarələnmiş sönük svetofordur"
+  },
+  {
+    "sual": "Giriş svetoforunun təyinatı nədir?",
+    "cavab": "Qatarın stansiyaya qəbuluna icazə verir və ya qadağan edir."
+  },
+  {
+    "sual": "Manevr svetoforunda bir ağ-ay işıq işarəsi nəyi tələb edir?",
+    "cavab": "Manevr aparılmasına icazə verilir."
+  },
+  {
+    "sual": "Stansiya növbətçisi və ya qatar dispetçerilə əlaqə olmadıqda mənzildə dayanmış sərnişin qatarının maşinisti lazımı məlumatı növbəti stansiya növbətçisinə çatdırmaq üçün qatarın tərkibindən lokomotivi açmaqlə ondan istifadə edə bilərmi?",
+    "cavab": "Heç bir halda olmaz"
+  },
+  {
+    "sual": "Manevr svetoforunda iki ağ-ay işıq işarə nəyi tələb edir?",
+    "cavab": "Manevr aparılmasına icazə verilir, iki manevr sahəsi boşdur."
+  },
+  {
+    "sual": "Lokomotiv briqadası texniki baxış məntəqəsinden çıxarkən təlimata əsasən nələrə baxmalıdır?",
+    "cavab": "Texniki baxış məntəqəsindən çıxarkən lokomotivin damında,altında, piləkənində, təmir xəndəyində adamların olmamasını və məntəqənin yolunun qapılarının açıq vəziyyətdə olmasına əmin olduqdan sonra hərəkətə başlamalıdır,"
+  },
+  {
+    "sual": "Maşinist köməkçisi lokomotivlə birinci vaqon arası tormoz magistralının birləşdirici xortumlarını açmazdan əvvəl ilk olaraq hansı kranları bağlamalıdır?",
+    "cavab": "Lokomotivlə birinci vaqonun tormoz magistralının birləşdirici olan lokomotivin sonluq kranını,"
+  },
+  {
+    "sual": "Mənzillərdə yük qatarları məcburi dayandıqda və qatarın çəpərlənməsi tələb olunduqda hansı tədbirlər görülməlidir?",
+    "cavab": "Ümumi həyəcan siqnalı verilir, maşinist köməkçisi qatarın arxa hissəsindən 1000 metr məsafədə yola partlayıcılar düzərək qatarı çəpərləyir."
+  },
+  {
+    "sual": "Qatarın məcburi dayanması barədə məlumatı eşidən qarşıdan gələn qatarın maşinistinin görməli olduğu tədbirlərdən hansısı aşağıdakılardan deyil?",
+    "cavab": "Qatarın dayanmış qatarın lokomotivinin yanında vaxtında saxlanılması mümkün olmadıqda əlavə olaraq xidməti tormozlama tətbiq etməlidir."
+  },
+  {
+    "sual": "Hansı hallarda maşinist köməkçisi reqlament etmir?",
+    "cavab": "Qonşu yolda təsərrüfat işləri aparılan sahələrdə."
+  },
+  {
+    "sual": "Səfər zamanı hərəkətdə olan qatarın maşinist köməkçisi hansı hallarda idaraetmə kabinəsini tərk edə bilər?",
+    "cavab": "Yaşıl işıqda hərəkət edərkən."
+  },
+  {
+    "sual": "Qatar, svetoforun qadağanedici göstəricili blok-sahəsinə daxil olduqda maşinist köməkçisinin maşinistə verməli olduğu aşağıdakı məlumatlardan biri yanlışdır?",
+    "cavab": "Qadağanedici göstəricili svetofora 200 metr qalmış 10 km/saata qədər sürətin azaldılmasının zəruriliyi haqda məlumat vermək."
+  },
+  {
+    "sual": "Qatar mənzildə və ya stansiyada 30 dəqiqədən çox dayandıqdan, sonra maşinist aşağıdakılardan hansını yerınə yetirməlidir?",
+    "cavab": "Hərəkət hissələrini şəxsən yoxlamaq."
+  },
+  {
+    "sual": "Giriş svetoforda iki sarı işıqla qatara neçə km/saat-dan yuxarı olmayan sürətlə stansiyanın yan yoluna daxil olmağa icazə verilir?",
+    "cavab": "40"
+  },
+  {
+    "sual": "Çıxış svetoforunun bir sarı qırpışan və ya bir ağ-ay işığında qatara neçə km/saat-dan artıq olmayan sürətlə stansiyadan yola düşməyə icazə verilir?",
+    "cavab": "40 km/saat"
+  },
+  {
+    "sual": "Mənzildəki blok-sahələri bir-birindən hansı svetoforlar ayırır?",
+    "cavab": "keçid"
+  },
+  {
+    "sual": "Aşağıdakı nasazlıqlardan hansısı avtobloklamanın fəaliyyətinin dayanmasının tələb edən nasazlıqlardan deyil?",
+    "cavab": "Mənzildə keçid svetoforunun icazəverici işığın yanmaması."
+  },
+  {
+    "sual": "Qatar dayandıqdan sonra baş vermiş nasazlığı 20-30 dəqiqə müddətində aradan qaldırmaq mümkün olmadıqda maşinist nə etməlidir?",
+    "cavab": "Stansiya növbətçisi vasitəsi ilə qatar dispetçerindən köməkçi lokomotiv tələb etməlidir."
+  },
+  {
+    "sual": "Yük qatarı stansiyanın girişində məcburi dayandıqda maşinist aşağıdakılardan hansını yerinə yetirməlidir?",
+    "cavab": "Stansiya növbətçisinə məlumat vermək"
+  },
+  {
+    "sual": "Qatar stansiyaya daxil olarkən və stansiya yolları ilə hərəkət edərkən lokomotiv briqadası müəyyən olunmuş hansı səs işarəsi verməlidir?",
+    "cavab": "Bir uzun"
+  },
+  {
+    "sual": "Dayanan qatarı avtotormozlarla yerində saxlamaq mümkün olmadıqda hərəkət tərkibindəki əl tormozlarının işə salmazdan əvvəl hansı səs işarəsi verilməlidir?",
+    "cavab": "Üç uzun” səs işarəsi"
+  },
+  {
+    "sual": "Aşağıdakılardan hansı bənd maşinistin vəzifə borcuna aid deyil?",
+    "cavab": "Lokomotivdə yanğınsöndürən ləvazimatlarının olub-olmamasını yoxlamamaq."
+  },
+  {
+    "sual": "Aşağıdakılardan hansı bənd maşinist və maşinist köməkçisinin vəzifə borclarına aid deyil?",
+    "cavab": "Səfər zamanı hər stansiyanı keçdikdən sonra tormozların effektivliyini yoxlamaq."
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı qatarı idarə edərkən maşinistə qadağan edilmir?",
+    "cavab": "Təhlükəsizlik qurğularına nəzarət etmək."
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı qatarın mənzildə məcburi dayanması zamanı maşinistin fəaliyyətinə aid deyil?",
+    "cavab": "Stansiyada lokomotivi söndürmək və müvafiq qaydada onun bərkidilməsindən sonra lokomotivi tərk eərək lokomotivin açarını yaxınlıqda olan stansiya növbətçisinə təhvil vermək."
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı mənzildə dayanmış qatarın çəpərlənməsi qaydalarına ziddir?",
+    "cavab": "Bütün hallarda, iki yollu və çoxyollu mənzillərdə qatarların hərəkətinə mane olan yerlər dərhal və ilk növbədə qatar gözlənilən istiqamətdən 200 metr məsafədə çəpərlənməlidir."
+  },
+  {
+    "sual": "Mənzillərdə kontakt şəbəkəsinin təmas naqili relsin başlığı səviyyəsindən ən azı hansı hündürlükdə yerləşir?",
+    "cavab": "5750 mm"
+  },
+  {
+    "sual": "İş yerində əmək mühafizəsi normalarının və qaydalarının yerinə yetirilməsinə bilavasitə kim cavabdehdir?",
+    "cavab": "Müəssisənin işəgötürəni"
+  },
+  {
+    "sual": "Qatar düzgün olmayan yolla göndərildikdə maşinistə verilən DU-50 formalı yol vərəqəsi qatarın hara qədər hərəkətinə icazə verir?",
+    "cavab": "Növbəti stansiyanın giriş svetoforuna qədər"
+  },
+  {
+    "sual": "Stansiya və mənzillərdə hərəkət zamanı lokomotivin svetoforu qəflətən ağ işığa keçərsə, maşinist qatarı növbəti svetofora qədər və ya lokomotiv svetoforuna icazəverici işarə gələnə qədər hansı sürətlə idarə etməlidir?",
+    "cavab": "40 km/saat"
+  },
+  {
+    "sual": "Dispetçer mərkəzləşməsi ilə təchiz olunmuş sahələrdə çıxış svetoforunu kim açır?",
+    "cavab": "Qatar dispetçeri"
+  },
+  {
+    "sual": "Giriş svetoforunun qadağanedici işarə göstəricisində qatar stansiyaya necə qəbul edilir?",
+    "cavab": "Stansiya növbətçisinin əmri ilə və ya dəvətedici işarə ilə"
+  },
+  {
+    "sual": "Giriş svetoforunun iki sarı yuxarı qırpışan işığı nəyi göstərir?",
+    "cavab": "Stansiyanın yan yoluna daxil olmağa icazə verir, növbəti svetofor açıqdır."
+  },
+  {
+    "sual": "İşarə nişanları yolun hansı tərəfində qoyulur?",
+    "cavab": "Yolun hərəkət istiqamətinin sağ tərəfində qoyulur"
+  },
+  {
+    "sual": "Çıxış svetoforunda bir sarı işıq nəyi göstərir?",
+    "cavab": "Qatarın aşağı sürətlə stansiyadan yola düşməsinə icazə verir və irəlidə bir blok-sahə boşdur"
+  },
+  {
+    "sual": "Qatarın konstruksiya sürəti nəyi əks etdirir?",
+    "cavab": "Lokomotivin konstruksiyasının təmin etdiyi ən yüksək sürəti"
+  },
+  {
+    "sual": "Qatarın mənzildə məcburi dayanması zamanı maşinist ilk növbədə nə etməlidir?",
+    "cavab": "Qatarı saxlamalı, mənzilə hərəkətdə olan qatarların maşinistlərinə və stansiya növbətçisinə məlumat verməlidir"
+  },
+  {
+    "sual": "Stansiyadan çıxış svetoforunu kim açır?",
+    "cavab": "Şəxsən stansiya növbətçisi"
+  },
+  {
+    "sual": "Qatar düzgün yolla göndərildikdə maşinistə verilən DU-50 formalı yol vərəqəsi qatarın hara qədər hərəkətinə icazə verir?",
+    "cavab": "Növbəti stansiyanın giriş svetoforuna qədər"
+  },
+  {
+    "sual": "Lokomotivlərin istismar parkı anlayışı nə deməkdir?",
+    "cavab": "Qatar və manevr işində istismar olunan lokomotivlər"
+  },
+  {
+    "sual": "Təsnifatına görə hansı lokomotivlər vardır?",
+    "cavab": "Sərnişin, yük və manevr"
+  },
+  {
+    "sual": "Yük qatarı mənzildə məcburi dayandıqda, onun çəpərlənməsi kim tərəfindən aparılır?",
+    "cavab": "Maşinistin göstərişinə əsasən maşinist köməkçisi tərəfindən"
+  },
+  {
+    "sual": "Gərginlik altında olan avadanlıqlarda baş vermiş yanğını söndürərkən ilk növbədə nə etmək lazımdır?",
+    "cavab": "Qəza bölməsini və avadanlıqları cərəyandan ayırmaq"
+  },
+  {
+    "sual": "Səfər zamanı bədbəxt hadisə baş verən zaman lokomotiv briqadasının ilkin vəzifəsi nədir?",
+    "cavab": "Zərərçəkənə ilk tibbi yardım göstərilmək, yaxınlıqdakı tibb məntəqəsinə çatdırılmasını təşkil etmək və depo rəhbərliyənə məlumat vermək"
+  },
+  {
+    "sual": "İkiyollu mənzillərdə qatarlar qarşılaşdığı vaxt bilidiriş işarəsi lokomotivin səsli fiti ilə necə verilir?",
+    "cavab": "Bir uzun"
+  },
+  {
+    "sual": "İkiyollu mənzillərdə qatarlar qarşılaşdığı vaxt bilidiriş işarəsi lokomotivin səsli fiti ilə neçə dəfə nə vaxt verilir?",
+    "cavab": "İki dəfə, birinci işarə-qarşıdan gələn qatara yaxınlaşarkən, second işarə- qatarın sonuncu vaqonuna çatarkən."
+  },
+  {
+    "sual": "Stansiyalarda işarəçilər və ya giriş yoldəyişmə post növbətçiləri stansiyaya daxil olan tək nömrəli qatarın yaxınlaşmasını neçə səs işarəsilə bildirirlər?",
+    "cavab": "Bir uzun"
+  },
+  {
+    "sual": "Stansiyalarda işarəçilər və ya giriş yoldəyişmə post növbətçiləri stansiyaya daxil olan cüt nömrəli qatarın yaxınlaşmasını neçə səs işarəsilə bildirirlər?",
+    "cavab": "İki uzun"
+  },
+  {
+    "sual": "Stansiyanın giriş svetoforunu dəvətedici işarə ilə keçərkən maşinist lokomotivin səs fiti ilə necə işarə verməlidir?",
+    "cavab": "Bir qısa, bir uzun"
+  },
+  {
+    "sual": "Mənzildə anlaşılmaz və ya sönük halda olan keçid svetoforunun önündə dayandıqdan sonra onu keçərkən maşinist lokomotivin səs fiti ilə necə işarə verməlidir?",
+    "cavab": "Bir qısa, bir uzun"
+  },
+  {
+    "sual": "İşarəçinin “Cərəyan qəbuledicini endir” əl işarəsini başa düşdükdə, maşinist lokomotivin səs fiti ilə necə işarə verməlidir?",
+    "cavab": "Bir uzun"
+  },
+  {
+    "sual": "Maşinistə verilən DU-61 formalı xəbərdarlıq vərəqəsində göstərilmiş km-dən başlayaraq iş aparılan yerə yaxınlaşana qədər maşinist lokomotivin səs fiti ilə necə işarə verməlidir?",
+    "cavab": "Bir uzun"
+  },
+  {
+    "sual": "Gecə vaxtı düzgün olmayan yolla hərəkət zamanı qatarın baş hissəsindəki lokomotivin hansı işıqları yandırılmalıdır?",
+    "cavab": "Sol tərəfdən- fənərin qırmızı işığı, sağ tərəfdən- fənərin şəffaf ağ işığı"
+  },
+  {
+    "sual": "Təkraredici svetoforların işarə işıqları normal vəziyyətdə necə olur?",
+    "cavab": "Ümumiyyətlə yanmır"
+  },
+  {
+    "sual": "Qatarların hərəkətini tənzimləmək üçün neçə əlaqə növü var?",
+    "cavab": "Beş"
+  },
+  {
+    "sual": "Dəmir yollarında istifadə edilən svetoforlar öz təyinatına görə neçə ədəddirlər?",
+    "cavab": "On bir"
+  },
+  {
+    "sual": "Kontakt şəbəkəsinin naqilləri qırılaraq lokomotivin üzərinə düşdükdə, briqada lokomotivdən düşərkən və ya ona qalxarkən hansı təhlükəsizlik qaydalarına əməl etməlidir?",
+    "cavab": "Tutacaqlardan tutarkən dielektrik rezin əlcəkdən istifadə etməlidirlər."
+  },
+  {
+    "sual": "Səfər zamanı lokomotivdə yanğın təhlükəsizliyinə cavabdeh şəxs kimdir?",
+    "cavab": "Maşinist"
+  },
+  {
+    "sual": "Səfər zamanı stansiyada kontakt naqilinin nasazlığı zamanı maşinist kimin iştirakı ilə lokomotivin damına qalxa bilər?",
+    "cavab": "Elektrik təchizatı sahəsinin məsul işçisinin"
+  },
+  {
+    "sual": "Stansiya və mənzillərdə lazımi hallarda kontakt şəbəkəsindən elektrik enerjisinin açılması kimin göstərişilə həyata keçirilir?",
+    "cavab": "Enerji dispetçerinin"
+  },
+  {
+    "sual": "İxtisas (kvalifikasiya) dərəcəsi olmayan maşinistlər sərnişin daşınması üçün istifadə edilən lokomotivlərdə işləyə bilərmi?",
+    "cavab": "İşləyə bilməzlər"
+  },
+  {
+    "sual": "Hansı ixtisas (kvalifikasiya) dərəcəsi ilə maşinistlər sərnişin daşınmasında istifadə edilən lokomotivlərdə işləyə bilərlər?",
+    "cavab": "1 və ya 2-ci dərəcəsi olanlar işləyə bilərlər."
+  },
+  {
+    "sual": "Elektrik qatarını yolun boş sahəsinə qəbulu zamanı və həmən yolun növbəti sahəsi digər hərəkət vasitəsilə tutulu olduqda sürət neçə km/saat-dan artıq olmamalıdır?",
+    "cavab": "20 km/saat"
+  },
+  {
+    "sual": "Elektrik qatarını yolun boş sahəsinə qəbulu zamanı və həmən yolun növbəti sahəsi digər hərəkət vasitəsilə tutulu olduğu zaman svetoforda hansı işarə olamalıdır?",
+    "cavab": "Üç sarı"
+  },
+  {
+    "sual": "Stansiyalardan dalan yollara göndərilən qatarın sürəti ən çox neçə km/saat olmalıdır?",
+    "cavab": "25 km/saat"
+  },
+  {
+    "sual": "Stansiyadan düzgün olmayan yolla göndərilən qatar kimin əmri əsasında göndərilə bilər?",
+    "cavab": "Qatar dispetçeri"
+  },
+  {
+    "sual": "Hansı hallarda stansiya və ya mənzillərdə iki qatarın öz lokomotivi ilə birləşməsi və birgə hərəkət etməsi mümkündür?",
+    "cavab": "Zəruri hallarda"
+  },
+  {
+    "sual": "Sərnişin və yük qatarlarının ən yüksək icazəverici hərəkət sürətləri kimin əmrilə müəyyən edilir?",
+    "cavab": "Cəmiyyət sədrinin"
+  },
+  {
+    "sual": "Aşağıdakılardan hansısı səfər zamanı maşinistə qadağan edilmir?",
+    "cavab": "Müəyyən edilmiş sürət həddini aşmamaq."
+  },
+  {
+    "sual": "Mənzildə dayanmış hansı tip qatarların geri hərəkət etdirilməsinə icazə verilir?",
+    "cavab": "Yük qatarına"
+  },
+  {
+    "sual": "Yoxuşda dayanmış yük qatarının lazımi halda geriyə bir qədər yüngül profilli sahəyə hərəkətinə neçə km/saat sürətlə icazə verilir?",
+    "cavab": "5 km/saat"
+  },
+  {
+    "sual": "İkiyollu mənzillərin düz sahələrində yolların oxları arasındakı məsafə nə qədər olmalıdır?",
+    "cavab": "4100 mm-dən az olmamalıdır"
+  },
+  {
+    "sual": "Mənzilin avtomatik bloklamasının bağlamanması səbəbindən stansiyanın çıxış svetoforu açılmadıqda stansiyadan göndərilən qatarın maşinistinə hansı icazəverici vərəqə verilir?",
+    "cavab": "DU-50"
+  },
+  {
+    "sual": "Stansiyanın mailliyi 0,0005 qədər olan yollarda vaqonların hər iki tərəfindən bərkidilməsinə neçə ədəd tormoz başmağı istifadə edilməlidir?",
+    "cavab": "1"
+  },
+  {
+    "sual": "Stansiyanın çıxış svetoforunun qadağanedici işarəsilə hərəkətə başlamazdan əvvəl maşinist icazəverici sənədi kimdən ala bilməz?",
+    "cavab": "Vaqon müayinəçisindən"
+  },
+  {
+    "sual": "Stansiyadan qadağanedici işarə ilə getməsi haqda maşinistdə yazılı icazəverici olmasına baxmayaraq o stansiya növbətçisindən əlavə göstəriş almadan stansiyadan gedə bilərmi?",
+    "cavab": "Gedə bilməz"
+  },
+  {
+    "sual": "İcazəverici yol vərəqəsi DU-50 şəxsən kim tərəfindən tərtib edilməli və maşinistə təqdim edilməlidir?",
+    "cavab": "Stansiya növbətçisi və ya operator"
+  },
+  {
+    "sual": "Bütün işarəvermə və əlaqə vasitələrinin işinin fasiləsi zamanı hansı qatarı mənzilə göndərmək olar?",
+    "cavab": "Çəkisi və uzunluğu norma daxilində olan qatar"
+  },
+  {
+    "sual": "Mənzildəki keçid svetoforlardakı qadağanedici işarəni (T- ilə işarələnmişdən başqa) qatarı saxlamadan keçmək olarmı?",
+    "cavab": "heç bir halda olmaz"
+  },
+  {
+    "sual": "Mənzildə xarab olmuş tək lokomotivə, arxadan gələn qatar qoşulduqdan sonra onu hansı sürətlə növbəti stansiyaya qədər aparmalıdır?",
+    "cavab": "25 km/saat artıq olmayan sürətlə"
+  },
+  {
+    "sual": "Qatar tərtibatçısı olmayan yerlərdə lokomotivin qatarın birinci vaqonuna və ya başqa hərəkət heyətinə düzgün qoşulmasına cavabdeh şəxs kimdir?",
+    "cavab": "Maşinist"
+  },
+  {
+    "sual": "Bütün işarəvermə əlaqə vasitələrinin kəsilməsi zamanı, aralarında əlaqə kəsilən stansiyalarla məhdudlaşdırılmış mənzilə qatar göndərilərkən hansı istiqamət qatarına üstünlük verilir?",
+    "cavab": "Tək istiqamətli qatara"
+  },
+  {
+    "sual": "Avtobloklama ilə təchiz edilmiş sahələrdə mənzildə dayanmış qatara kömək göstərmək kimin rəsmi əmri ilə həyata keçirilir?",
+    "cavab": "Qatar dispetçeri"
+  },
+  {
+    "sual": "Kontakt naqili asmasının maksimal hündürlüyü nə qədərdir?",
+    "cavab": "6800 mm-dən çox olmamalıdır"
+  }
+]
