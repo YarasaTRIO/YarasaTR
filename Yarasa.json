@@ -7,5 +7,12 @@
       "098a8b08bb180f16"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "Ady",
+    "cihaz_limiti": 9999,
+    "bitis_tarihi": "01.01.2050",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
