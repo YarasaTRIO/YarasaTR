@@ -8,14 +8,5 @@
       "098a8b08bb180f16"
     ],
     "aktif": true
-  },
-  {
-    "giris_sifresi": "y",
-    "cihaz_limiti": 1,
-    "bitis_tarihi": "01.01.2031",
-    "izinli_cihazlar": [
-      "098a8b08bb180f16"
-    ],
-    "aktif": true
   }
 ]
