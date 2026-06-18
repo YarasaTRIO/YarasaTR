@@ -8,5 +8,12 @@
       "a368e5cca0d8dfde"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "Yarasa",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "01.01.203",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
