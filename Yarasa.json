@@ -9,5 +9,12 @@
       "a019bea67a2d03ab"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "porno",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "01.01.2031",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
