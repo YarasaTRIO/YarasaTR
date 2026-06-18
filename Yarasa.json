@@ -1,11 +1,10 @@
 [
   {
     "giris_sifresi": "Ady",
-    "cihaz_limiti": 99999,
+    "cihaz_limiti": 1,
     "bitis_tarihi": "01.01.2050",
     "izinli_cihazlar": [
       "098a8b08bb180f16",
-      "a019bea67a2d03ab",
       "a368e5cca0d8dfde"
     ],
     "aktif": true
