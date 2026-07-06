@@ -4,6 +4,6 @@
     "cihaz_limiti": 1,
     "bitis_tarihi": "01.01.2031",
     "izinli_cihazlar": [],
-    "aktif": true
+    "aktif": false
   }
 ]
