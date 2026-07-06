@@ -10,7 +10,9 @@
     "giris_sifresi": "1",
     "cihaz_limiti": 2,
     "bitis_tarihi": "01.01.2031",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "a368e5cca0d8dfde"
+    ],
     "aktif": true
   }
 ]
