@@ -1,7 +1,7 @@
 [
   {
     "giris_sifresi": "Ady",
-    "cihaz_limiti": 2,
+    "cihaz_limiti": 4,
     "bitis_tarihi": "01.01.2031",
     "izinli_cihazlar": [
       "a368e5cca0d8dfde",
