@@ -7,14 +7,5 @@
       "web_i6vajqgdpzczgokck33c4l"
     ],
     "aktif": true
-  },
-  {
-    "giris_sifresi": "j",
-    "cihaz_limiti": 5,
-    "bitis_tarihi": "01.01.2031",
-    "izinli_cihazlar": [
-      "web_i6vajqgdpzczgokck33c4l"
-    ],
-    "aktif": false
   }
 ]
