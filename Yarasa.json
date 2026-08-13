@@ -8,12 +8,5 @@
       "5aa4e993cc19ee74"
     ],
     "aktif": true
-  },
-  {
-    "giris_sifresi": "Maga",
-    "cihaz_limiti": 5,
-    "bitis_tarihi": "01.09.2026",
-    "izinli_cihazlar": [],
-    "aktif": false
   }
 ]
