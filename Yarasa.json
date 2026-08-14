@@ -18,5 +18,12 @@
       "f9fb7172a5cbd7d1"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "h",
+    "cihaz_limiti": 666,
+    "bitis_tarihi": "01.01.2031",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
