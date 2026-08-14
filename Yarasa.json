@@ -13,7 +13,9 @@
     "giris_sifresi": "maqa",
     "cihaz_limiti": 1,
     "bitis_tarihi": "01.01.2031",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "f9fb7172a5cbd7d1"
+    ],
     "aktif": true
   }
 ]
