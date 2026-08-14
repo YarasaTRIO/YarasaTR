@@ -1,0 +1,139 @@
+[
+  {
+    "name": "AZTV",
+    "logo": "https://yodaplayer.yodacdn.net/aztv/aztv_logo.png",
+    "url": "https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "MEDENİYYETT",
+    "logo": "https://yodaplayer.yodacdn.net/aztv/medeniyyet_logo.png",
+    "url": "https://str.yodacdn.net/medeniyyettele/index.m3u8"
+  },
+  {
+    "name": "Idman",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/%C4%B0dman_TV_(2019).png",
+    "url": "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Radio Resp.",
+    "logo": "https://yodaplayer.yodacdn.net/aztv/radio_respublica_logo.png",
+    "video": "https://yodaplayer.yodacdn.net/aztv/radioresp.mp4",
+    "url": "https://str2.yodacdn.net/radio_respublica/index.m3u8"
+  },
+  {
+    "name": "Radio Int.",
+    "logo": "https://yodaplayer.yodacdn.net/aztv/radio_int_logo.png",
+    "video": "https://yodaplayer.yodacdn.net/aztv/radioint.mp4",
+    "url": "https://str2.yodacdn.net/radio_int/index.m3u8"
+  },
+  {
+    "name": "ATV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ATV_(2020-h.h.).png",
+    "url": "https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Xezer TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/xezerrr-removebg-preview.png",
+    "url": "https://xezerxeber.az/stream/index.m3u8"
+  },
+  {
+    "name": "Ictimai TV SD",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ictimai-tv-seeklogo.png",
+    "url": "https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0"
+  },
+  {
+    "name": "Space TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Space_TV_loqosu_(2021-2023).png",
+    "url": "https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjA4LjYiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE1My4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE1My4wIiwiZXhwIjoxNzg1ODY1MjA3LCJqdGkiOiIzNTEzZDNhMWM3YzhlMzJjIn0%3D.+bci+oQgGHqjGCFbfpJ7vEPFjziVPW2WnsNZn4I0IUQ%3D"
+  },
+  {
+    "name": "Dunya TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/D%C3%BCnya_TV__2019-h.h._-removebg-preview.png",
+    "url": "https://stream.dunyatv.az/live/dunyatv.m3u8"
+  },
+  {
+    "name": "Baku TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Baku_TV__2018_-removebg-preview.png",
+    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8"
+  },
+  {
+    "name": "Kəpəz TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Kapaz_TV_Logo_2019.png",
+    "url": "http://85.132.78.122:8050/hls/stream/index.m3u8"
+ },
+  {
+    "name": "Biznes",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Biznes-TV-LOGO.webp",
+    "url": "https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Naxçıvan",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Nax%C3%A7%C4%B1van_TV_(2025).png",
+    "url": "https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Qafqaz Tv",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Qafqaz_TV_(2017-h.h.).png",
+    "url": "https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "ARB",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB-removebg-preview.png",
+    "url": "https://tr.canlitv.watch/api/bot/gia?action=m3u8&cookie=UEhQU0VTU0lEPTdmZWIwMjFmYjk1OGQwYWUxNDE4ZGMwYTFkMWNiNTk4&stream=aHR0cHM6Ly9ib3p6dHYuY29tL2R2cmZsMDUvYXplci1hcmIvdHJhY2tzLXYxYTEvbW9uby5tM3U4&ext=.m3u8"
+  },
+  {
+    "name": "ARB 24",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB_24_logo1.png",
+    "url": "https://tr.canlitv.watch/api/bot/gia?action=m3u8&cookie=UEhQU0VTU0lEPWYyNzkzN2JhMjFmOTc3NmY4ZGI2NTY5YTdkNTUwNzUy&stream=aHR0cHM6Ly9ib3p6dHYuY29tL2R2cmZsMDUvYXplci1hcmIyNC90cmFja3MtdjFhMS9tb25vLm0zdTg%3D&ext=.m3u8"
+  },
+  {
+    "name": "ARB Gunes",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB_Gunesh_Logo.png",
+    "url": "https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w1424313329.m3u8?hash=c6a2ca250903df1e90af200a2d81225f"
+  },
+  {
+    "name": "APA",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/APA_TV_loqo.png",
+    "url": "https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "Kanal S TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Kanal_S_loqosu_(2022).png",
+    "url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
+  },
+  {
+    "name": "EL",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/EL_TV_loqosu_(2020).png",
+    "url": "https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "MTV TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/MTV_Azerbaijan_Logo.png",
+    "url": "https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "TMB TV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/tmbtaz-png.png",
+    "url": "https://proxy.hdtvcanli.com/https://str.yodacdn.net/tmbaz/mono.m3u8?token=711e2325e23db8a05d08ea8c7d22ace352167600-d6a9d3fcc75ab41eaa8a4a6ec70307e0-1786708164000000-1786697364000"
+  },
+  {
+    "name": "GünazTV",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/G%C3%BCnAz_TV.png",
+    "url": "https://tv.gunaz.tv/hls/live.m3u8"
+  },
+  {
+    "name": "CBC Sport",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/cbc_logo2-removebg-preview-300x275.png",
+    "url": "https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
+  },
+  {
+    "name": "CBC",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/cbclogo.png",
+    "url": "https://proxy.hdtvcanli.com/https://tgn.bozztv.com/gin-dvrfl05/gin-cbctvaz/tracks-v1a1/mono.m3u8?nimblesessionid=1760448675&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDI2IDg6MzM6MjUgQU0maGFzaF92YWx1ZT1Lams0M0tiMEs2NkxVcEp5MmRBdUZnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjM="
+  },
+  {
+    "name": "Real Tv",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/real%20tv_azerbaijan.png",
+    "url": "https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjUuMTkxLjExOC40NyIsInVhIjoiTW96aWxsYS81LjAgKGlQaG9uZSBPUyAxOF83IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8yNi41LjIgTW9iaWxlLzE1IiwiZXhwIjoxNzg1MjM5MjI0LCJqdGkiOiJiMzYwNTQ0YjU0OWRmOTA0In0%3D.zjJTR2SD5RrSNenQC8HUvC+oRAxLK01jUwm5ZukWf9U%3D"
+  }
+]

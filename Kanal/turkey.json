@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Kanal7 Avrupa",
+    "logo": "https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png",
+    "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8"
+  },
+  {
+    "name": "Kanal7 Live",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png",
+    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8"
+  },
+  {
+    "name": "Kanal Urfa",
+    "logo": "https://i.ibb.co/C32ZcV2M/images-2.png",
+    "url": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8"
+  },
+  {
+    "name": "Kanal Avrupa",
+    "logo": "https://i.ibb.co/RGFx0Mf7/images.jpg",
+    "url": "https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8"
+  },
+  {
+    "name": "TRT 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "Kanal D",
+    "logo": "https://i.ibb.co/hf2mSz5/kanal-d.png",
+    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
+  },
+  {
+    "name": "NOW TV",
+    "logo": "https://i.ibb.co/Rpw3Gj5S/images-1.png",
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
+  },
+  {
+    "name": "TV 8",
+    "logo": "https://i.ibb.co/Kr5SFY1/tv8.png",
+    "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8"
+  },
+  {
+    "name": "SHOW TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
+    "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558"
+  },
+  {
+    "name": "STAR TV",
+    "logo": "https://i.ibb.co/hY3Z8zx/star-tv.png",
+    "url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718"
+  },
+  {
+    "name": "Halk TV",
+    "logo": "https://i.ibb.co/DYhmg6k/halk-tv.png",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8"
+  },
+  {
+    "name": "TRT Haber",
+    "logo": "https://logowik.com/content/uploads/images/trt-haber5539.jpg",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
+  },
+  {
+    "name": "Beyaz TV",
+    "logo": "https://i.ibb.co/1mftzTP/beyaz-tv.png",
+    "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
+  },
+  {
+    "name": "360 TV",
+    "logo": "https://i.ibb.co/s3gJCGL/360.png",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8"
+  },
+  {
+    "name": "TEVE2",
+    "logo": "https://i.ibb.co/JRpJc2P/teve2.png",
+    "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8"
+  },
+  {
+    "name": "TV100",
+    "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
+    "url": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8"
+  },
+  {
+    "name": "Habertürk",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png",
+    "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8"
+  },
+  {
+    "name": "24 TV",
+    "logo": "https://i.ibb.co/tHQpWvn/24.png",
+    "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
+  },
+  {
+    "name": "A Spor",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_SPOR_logosu.png",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aSPOR/aSPOR_1080p.m3u8"
+  },
+  {
+    "name": "Tabii TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png",
+    "url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8"
+  },
+  {
+    "name": "NTV",
+    "logo": "https://i.ibb.co/gRR1zpm/ntv.png",
+    "url": "https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8"
+  },
+  {
+    "name": "TGRT Haber",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png",
+    "url": "https://canli.tgrthaber.com/tgrt.m3u8"
+  },
+  {
+    "name": "TRT Çocuk",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_%C3%A7ocuk_logo.png",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
+  },
+  {
+    "name": "TRT Müzik",
+    "logo": "https://i.ibb.co/4gbPpzC/trt-muzik.png",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
+  },
+  {
+    "name": "TRT Türk",
+    "logo": "https://i.ibb.co/zN1BK38/trt-turk.png",
+    "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
+  },
+  {
+    "name": "TRT Avaz",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Kürdi",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png",
+    "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Arabi",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT World",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "Euro D",
+    "logo": "https://i.ibb.co/jMQTJmh/euro-d.png",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8"
+  },
+  {
+    "name": "TVNET",
+    "logo": "https://i.ibb.co/2jtzN6F/tvnet.png",
+    "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8"
+  },
+  {
+    "name": "CNN Türk",
+    "logo": "https://i.ibb.co/bFsmkwJ/cnn-turk.png",
+    "url": "https://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8"
+  }
+]
